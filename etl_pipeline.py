@@ -48,7 +48,7 @@
 #     print("🚀 3. SQLAlchemy ke zariye data ko PostgreSQL mein daal rahe hain (Loading)...")
     
 #     # ⚠️ ZAROORI NOTE: 'your_password' mita kar apna password likhein
-#     conn_string = "postgresql://postgres:123456@localhost:5432/postgres"
+#     conn_string = "postgresql://postgres:Your_Password6@localhost:5432/postgres"
     
 #     # SQLAlchemy Engine banana
 #     engine = create_engine(conn_string)
